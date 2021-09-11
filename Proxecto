@@ -492,7 +492,7 @@ http://90.77.38.110:8001/1:0:19:7531:426:1:C00000:0:0:0:
 
 
 
-#EXTINF:0 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_19_7855_41A_1_C00000_0_0_0.png",Dazn 1
+#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-color/picon/1_0_19_7855_41A_1_C00000_0_0_0.png",Dazn 1
 #EXTGRP:DEPORTES JUANJO
 http://170.253.30.41:8001/1:0:19:7855:41A:1:C00000:0:0:0:
 #EXTINF:0,Dazn 1
